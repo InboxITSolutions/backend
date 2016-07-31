@@ -1,0 +1,6 @@
+RewriteEngine On
+RewriteRule ^dashboard?$ dashboard.php
+RewriteRule ^category?$ category.php
+RewriteRule ^slider?$ slider.php
+RewriteRule ^create?$ create.php
+RewriteRule ^logout?$ logout.php
